@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/ProjectEvaluation
+/app-api/app-api/bin/Debug/net6.0
+/app-api/app-api/.vs/app-api
+/app-api/app-api/obj
